@@ -1,2 +1,2 @@
 # Landing-EsteeLauder
- Landing Page of Estee Lauder.
+ Landing Page of Estee Lauder. Mobile only.
